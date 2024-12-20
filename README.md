@@ -1,2 +1,2 @@
 # app-ideas
-repositorio para practicar js antes de node js
+repositorio para practicar programacion en php y js 
